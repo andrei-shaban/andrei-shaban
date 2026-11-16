@@ -1,4 +1,4 @@
-# andreishaban — agent-factory engineer
+# Andrei Shaban — agent-factory engineer
 
     Solve business IT problems end-to-end: hardware -> AI agents -> production.
     Automate only what pays back. Honest math, no vanity metrics.
